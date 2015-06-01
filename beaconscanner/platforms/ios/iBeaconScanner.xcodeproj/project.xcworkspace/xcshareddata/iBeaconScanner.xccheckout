@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E72A7940-3FD7-4DD1-865B-4DA1E4CC8DBB</string>
+	<key>IDESourceControlProjectName</key>
+	<string>iBeaconScanner</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>47AA9CA93654BB084B4B2D1EA96A487B07623B46</key>
+		<string>https://github.com/csimpsonweb/beaconScanner.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>beaconscanner/platforms/ios/iBeaconScanner.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>47AA9CA93654BB084B4B2D1EA96A487B07623B46</key>
+		<string>../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/csimpsonweb/beaconScanner.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>47AA9CA93654BB084B4B2D1EA96A487B07623B46</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>47AA9CA93654BB084B4B2D1EA96A487B07623B46</string>
+			<key>IDESourceControlWCCName</key>
+			<string>beaconScanner</string>
+		</dict>
+	</array>
+</dict>
+</plist>
